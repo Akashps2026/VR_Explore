@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 0cb22cde2c941814db0c5be51d0f4cef
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 12e1e056288dea24d8cae1b6c16975c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panel_sciana
+    second: {fileID: 2100000, guid: 533c4edfa757a774cb5746587a9db52c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panel_sterowania
+    second: {fileID: 2100000, guid: de1da6548a3a7924d8ec3334e255bb8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Pod\u0142oga2"
+    second: {fileID: 2100000, guid: 38626fd92ae781e46b2cc1fbb2fa04d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SCIANA_DUZA
+    second: {fileID: 2100000, guid: 5e763415981b9ff4aa204c9c5f981fa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "SCIANA_MA\u0141A"
+    second: {fileID: 2100000, guid: 0bec407fe2e2dd1438951bb0215b037b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SCIANA_PODLOGA
+    second: {fileID: 2100000, guid: df8a25758d85f554c817b03f99cb118a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SZYBKA
+    second: {fileID: 2100000, guid: 9049f74144020d04eafb4efab91e1a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drzwi
+    second: {fileID: 2100000, guid: 8bce211f51e77054e850ed53265c9449, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "duz_s\u0142oik_szybka"
+    second: {fileID: 2100000, guid: 6bc24867ad1769948aebc4f6a9bad5b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "duzy_s\u0142oik"
+    second: {fileID: 2100000, guid: 105673ec844d0654bbdcdb858955cfa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel
+    second: {fileID: 2100000, guid: d50770d8679e6a5409d8e20fa538fe64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel3
+    second: {fileID: 2100000, guid: b6c663cbf8170084092f2aa2af1e4ce3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rura_glowna_podloga
+    second: {fileID: 2100000, guid: 7ee0d29f1c33ccb4ea6904d8f744baa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rura_glowna_szybka
+    second: {fileID: 2100000, guid: a55547fd38a64c74790501134d9afa40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "rura_g\u0142\xF3wna_baza"
+    second: {fileID: 2100000, guid: 73aaac24fa2a1254a8f59e3e2342aaa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rura_przod
+    second: {fileID: 2100000, guid: dd118837ef9ee694488f5db5ef475249, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rura_tylna
+    second: {fileID: 2100000, guid: 022c171b8a5a6214d9ac0a89170ee05b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sciana3
+    second: {fileID: 2100000, guid: f3f664277e4384b419b4a1e651b3f052, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stolik
+    second: {fileID: 2100000, guid: 9c850821e7ffa194297547ea07a740a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stolik_szybka
+    second: {fileID: 2100000, guid: 7364ecc804949094fa90d37eaaffb190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: szafka
+    second: {fileID: 2100000, guid: 027c86d293eb9b946b03454bda2bf8f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: szafka_body
+    second: {fileID: 2100000, guid: 0f063017b6ef8e3488a7abffaf599337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: szafka_szyba
+    second: {fileID: 2100000, guid: 761c2bfb55f6f7647ac34a965dce5353, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: szafka_szybka
+    second: {fileID: 2100000, guid: b2d1326344e92bc46b511505c4ba9c78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: szyba_przegroda
+    second: {fileID: 2100000, guid: 53c4516b4bff6244bb82a58e088667a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "s\u0142oik_ma\u0142y"
+    second: {fileID: 2100000, guid: bd30dac61bc991448ba60eac350b1e88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "s\u0142oik_ma\u0142y_szybka"
+    second: {fileID: 2100000, guid: e0dc5791db00ce14c93d51d1511b5893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tablica
+    second: {fileID: 2100000, guid: 2b26b5c0e0e649c40b4dcc7286b93c88, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
